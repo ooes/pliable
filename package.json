@@ -1,0 +1,23 @@
+{
+  "name": "pliable",
+  "version": "1.0.0",
+  "description": "A responsive page layout structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ooes/pliable.git"
+  },
+  "keywords": [
+    "layout",
+    "structure"
+  ],
+  "author": "Juan C Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ooes/pliable/issues"
+  },
+  "homepage": "https://github.com/ooes/pliable#readme"
+}
